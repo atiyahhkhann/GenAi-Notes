@@ -24,7 +24,7 @@ Generative AI is like having an assistant who can create something new from your
 
 - During training, the model looks for patterns. Much like guessing the next word in a sentence, it predicts, makes mistakes, and adjusts. Over many iterations, it learns structure, context, and relationships within the data. As it learns, the model builds a "latent space," an internal map of knowledge. In this space, words, images, or sounds that are related cluster together. This organization helps the model make sense of complex connections.
 
-![alt text](./images/Traditional%20AI%20vs%20Generative%20AI%20Infographic.png)
+![alt text](./images/Generative%20AI%20Workflow%20Infographic.png)
 
 - When you give a prompt, the model taps into its latent space to create something new. For example, if asked to "write a poem about sunrise," it pulls from what it has learned and generates original text inspired by its training. Some models are fine-tuned for specific jobs, such as summarizing legal documents or writing marketing copy. This step makes them more precise, like a chef perfecting a signature dish.
 
